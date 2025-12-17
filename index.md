@@ -9,3 +9,7 @@
 ``` java
 System.out.println("Hello out there!");
 ```
+
+- [ ] Complete Sprints
+- [ ] Complete Assignments
+- [ ] Complete Exam
